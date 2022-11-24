@@ -29,7 +29,8 @@ public class TestCalculator {
 		System.out.println(c.division(75, 5));
 	}
 	@After
-	public void show1() {
+	public void show2() {
 		System.out.println("Thank You");
 	}
+
 }
